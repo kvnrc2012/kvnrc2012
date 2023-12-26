@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hola, soy Alberto 
 
-<!--
-**kvnrc2012/kvnrc2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mí
 
-Here are some ideas to get you started:
+- 👀 Estoy interesado en el desarrollo de Software
+- 🌱 Actualmente estoy aprendiendo Backend con API REST y Cloud
+- 💞️ Estoy buscando colaborar en proyectos que sean innovadores y desafiantes.
+- 📫 Cómo contactarme: akevin.rojascaceres@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis Habilidades
+
+### Lenguajes de Programación y Herramientas
+
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code> <!-- C# -->
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></code> <!-- .NET -->
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"></code> <!-- SQL -->
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code> <!-- Angular -->
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code> <!-- VueJs -->
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code> <!-- TypeScript -->
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> <!-- Python -->
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code> <!-- GIT -->
+
+### Otros Intereses
+
+- Leer
+- Tecnologias Emergentes
+- Viajes
+- Aprendizaje Continuo
+
+## Conéctate Conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alberto-blue?style=flat-square&logo=linkedin)]([tu-enlace-de-linkedin](https://www.linkedin.com/in/alberto-kevin-rojas-caceres-7b8844264))
+
