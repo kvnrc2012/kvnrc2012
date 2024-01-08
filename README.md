@@ -5,7 +5,7 @@
 - 👀 Estoy interesado en el desarrollo de Software
 - 🌱 Actualmente estoy aprendiendo Backend con API REST y Cloud
 - 💞️ Estoy buscando colaborar en proyectos que sean innovadores y desafiantes.
-- 📫 Cómo contactarme: akevin.rojascaceres@gmail.com
+- 📫 Cómo contactarme: akrcaceres@gmail.com
 
 ## Mis Habilidades
 
