@@ -3,7 +3,7 @@
 ## Sobre Mí
 
 - 👀 Estoy interesado en el desarrollo de Software
-- 🌱 Actualmente estoy aprendiendo Backend con API REST y Cloud
+- 🌱 Actualmente estoy aprendiendo DevOps
 - 💞️ Estoy buscando colaborar en proyectos que sean innovadores y desafiantes.
 - 📫 Cómo contactarme: akrcaceres@gmail.com
 
