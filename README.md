@@ -5,7 +5,7 @@
 - 👀 Estoy interesado en el desarrollo de Software
 - 🌱 Actualmente estoy aprendiendo DevOps
 - 💞️ Estoy buscando colaborar en proyectos que sean innovadores y desafiantes.
-- 📫 Cómo contactarme: akrcaceres@gmail.com
+- 📫 Cómo contactarme: kevinrojassca@gmail.com
 - 🌱 Más Sobre Mí : https://cv-portafolioakc.netlify.app
 
 ## Mis Habilidades
